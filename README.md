@@ -35,7 +35,7 @@ SaaS multi-tenant onde o cliente final marca horário **conversando no WhatsApp*
 `TypeScript` `NestJS` `Prisma` `PostgreSQL` `Next.js` `Anthropic API (Claude, tool-use)` `WhatsApp Cloud API` `Stripe (assinatura + webhook)` `Google OAuth` `JWT + Argon2` `Web Push` `Docker` `GitHub Actions (CI)` `Vitest`
 
 ### 🥾 [Caqui Trekking](https://github.com/ncferreira-dev/caqui-trekking)
-Site de ecoturismo com loja, catálogo de trilhas e um CRM interno para gerenciar viagens, guias e saídas — tudo numa aplicação Next.js só, sem back-end separado. No ar em produção.
+Site de ecoturismo com loja, catálogo e CRM interno da Caqui Trekking, para gerenciar viagens, guias e saídas — tudo numa aplicação Next.js só, sem back-end separado. No ar em produção.
 
 `TypeScript` `Next.js` `Prisma` `PostgreSQL (Neon)` `Cloudinary (upload de imagem)` `Vercel` `Vercel Analytics` `Vitest`
 
