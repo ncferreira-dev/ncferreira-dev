@@ -40,7 +40,7 @@ Site de ecoturismo com loja, catálogo de trilhas e um CRM interno para gerencia
 `TypeScript` `Next.js` `Prisma` `PostgreSQL (Neon)` `Cloudinary (upload de imagem)` `Vercel` `Vercel Analytics` `Vitest`
 
 ### 💍 [Dália Semijoias](https://github.com/ncferreira-dev/dalia-semijoias)
-E-commerce completo em MERN stack para venda de semijoias.
+E-commerce completo em MERN stack para venda de semijoias. Peguei o projeto ainda no esboço inicial e conduzi sozinho o resto: front-end, back-end, construção das APIs, design system, CRM interno e hospedagem em produção.
 
 `MongoDB` `Express` `React` `Node.js`
 
