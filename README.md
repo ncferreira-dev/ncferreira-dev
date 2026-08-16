@@ -45,7 +45,7 @@ E-commerce completo em MERN stack para venda de semijoias. Peguei o projeto aind
 `MongoDB` `Express` `React` `Node.js`
 
 ### 🧵 [Mestre do Terno](https://github.com/ncferreira-dev/mestre-dos-ternos)
-Landing page de conversão para loja de moda masculina, com scroll suave sincronizado ao motor de animação e todo CTA levando pro WhatsApp.
+Catálogo digital para a bio do Instagram: uma landing page que direciona pra página de vendas, com botões conectando direto aos canais de venda (Mercado Livre, Shopee e outros) e scroll suave sincronizado ao motor de animação.
 
 `React 19` `Vite` `Tailwind CSS` `React Router` `GSAP` `Lenis`
 
