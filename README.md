@@ -39,7 +39,7 @@ Site de ecoturismo com loja, catálogo e CRM interno da Caqui Trekking, para ger
 
 `TypeScript` `Next.js` `Prisma` `PostgreSQL` `Cloudinary` `Vercel` `Vitest`
 
-### 💍 [Dália Semijoias](https://github.com/ncferreira-dev/dalia-semijoias)
+### 💍 Dália Semijoias *(código privado, projeto de cliente)*
 E-commerce completo em MERN stack para venda de semijoias. Peguei o projeto ainda no esboço inicial e conduzi sozinho o resto: front-end, back-end, construção das APIs, design system, CRM interno e hospedagem em produção.
 
 `MongoDB` `Express` `React` `Node.js`
